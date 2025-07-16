@@ -51,14 +51,10 @@
 
 ## 🤝 Connect with Me
 
-<p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atish-jadhav07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0FA9A0?style=for-the-badge&logo=vercel&logoColor=white)](https://atishs-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aatishjadhav)
-</p>
-
-
-
 
 
 ---
