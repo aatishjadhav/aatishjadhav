@@ -39,19 +39,6 @@
 
 ---
 
-### 📦 Highlight Projects
-
-- 🛒 **BuyNest** – E-commerce app with search, cart, and checkout  
-  🔗 [Live](https://buynest-frontend-olive.vercel.app) | 💻 [GitHub](https://github.com/aatishjadhav/BuyNest)
-
-- 📊 **LeadFlow CRM** – Lead and agent tracking CRM with role-based access  
-  🔗 [Live](https://anvaya-frontend-peach.vercel.app) | 💻 [GitHub](https://github.com/aatishjadhav/LeadFlow-CRM)
-
-- ✅ **TaskLane** – Task manager with analytics and dashboard UI  
-  🔗 [Live](https://workasana-frontend-pink.vercel.app) | 💻 [GitHub](https://github.com/aatishjadhav/TaskLane)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
