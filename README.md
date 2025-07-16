@@ -36,10 +36,16 @@
 
 ## 🚀 Vibes + GitHub Stats
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="typing boy gif" align="right"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true&border_radius=10" height="200" align="left" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="typing boy gif"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+</td>
+</tr>
+</table>
 
 
 
