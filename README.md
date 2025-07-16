@@ -36,16 +36,7 @@
 
 ## 🚀 GitHub Stats
 
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="typing boy gif"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true&border_radius=10" height="300" />
-</td>
-</tr>
-</table>
+
 
 
 <div><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
