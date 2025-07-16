@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%232C8EBB.svg?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
