@@ -43,6 +43,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aatishjadhav&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Atish's GitHub stats"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+    style="align-self: flex-start;"
+  />
+</p>
+
 ---
 
 ### 📫 Connect with Me
