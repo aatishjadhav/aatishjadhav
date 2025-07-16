@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true" height="180"/>
@@ -53,7 +53,7 @@
 </p>
 
 </td>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="typing boy gif" width="95%"/>
 
