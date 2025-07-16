@@ -13,7 +13,7 @@
 ## 🪐 About Me
 
 - 💻 **Full Stack Developer** with **1.5+ years** of professional experience, currently at **99minds Inc**
-- ⚡ Building **responsive, scalable, and clean applications** using React, Redux Toolkit, Node.js, and MongoDB
+- ⚡ Building **responsive, scalable, clean applications** using React, Redux Toolkit, Node.js, MongoDB
 - 🧩 Improving backend skills, authentication flows, and performance tuning
 - 🌐 **Portfolio:** [atishs-portfolio.netlify.app](https://atishs-portfolio.netlify.app)
 
@@ -34,32 +34,23 @@
 
 ---
 
-## 🚀 GitHub Stats + Vibes
-
-<table>
-<tr>
-<td width="100%">
+## 🚀 Vibes + GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="typing boy gif"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatishjadhav&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aatishjadhav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
 </p>
 
-</td>
-<td width="100%" align="center">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="typing boy gif" width="95%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+</p>
 
 ---
 
@@ -81,9 +72,8 @@
 
 ## ⚡ Fun Fact
 
-✨ I love turning **complex product ideas into clean, functional, user-friendly apps** – from **UI to APIs to deployment.**
+✨ I love turning **complex product ideas into clean, functional, user-friendly apps** – from **UI to APIs to deployment**.
 
 ---
 
-> ⭐ If you like my work, consider ⭐️ **starring** this repo and following me to stay connected!
-
+> ⭐ If you like my work, consider **starring** this repo and following me to stay connected!
