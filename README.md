@@ -1,12 +1,9 @@
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Atish Jadhav</h1>
 
 <p align="center">
-  Frontend-Focused Full Stack Developer | React.js | Node.js | MERN Stack | Tailwind CSS
+ A passionate Fullstack developer from India
 </p>
 
 <p align="center">
