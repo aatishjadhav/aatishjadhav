@@ -43,19 +43,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aatishjadhav&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Atish's GitHub stats"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="200"
-    style="align-self: flex-start;"
-  />
-</p>
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left Column: GitHub Stats + Top Languages -->
+      <td align="left">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=aatishjadhav&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="Atish's GitHub stats"
+          height="200"
+        />
+        <br/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatishjadhav&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+          height="200"
+        />
+      </td>
+
+      <!-- Right Column: Animated Image -->
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="typing animation" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
