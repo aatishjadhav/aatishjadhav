@@ -36,18 +36,16 @@
 
 ## 🚀 GitHub Stats
 
-
-
-
-<div><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-bhalke-174b90226/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratham_bhalke/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prathambhalke)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhalkeprathamesh11@gmail.com)
-  
-</div>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="typing boy gif"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatishjadhav&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,10 +65,4 @@
 
 ---
 
-## ⚡ Fun Fact
 
-✨ I love turning **complex product ideas into clean, functional, user-friendly apps** – from **UI to APIs to deployment**.
-
----
-
-> ⭐ If you like my work, consider **starring** this repo and following me to stay connected!
