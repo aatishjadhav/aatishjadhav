@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Atish Jadhav</h1>
 
 <p align="center">
-🚀 A passionate Fullstack (MERN) Developer from India
+🚀 A passionate Full-stack (MERN) Developer from India
 </p>
 
 <p align="center">
