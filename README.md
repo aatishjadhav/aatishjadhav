@@ -15,7 +15,7 @@
 - 💻 **Full Stack Developer** with **1.5+ years** of professional experience
 - ⚡ Building **responsive, scalable, clean applications** using React, Redux Toolkit, Node.js, MongoDB
 - 🧩 Improving backend skills, authentication flows, and performance tuning
-- 🌐 **Portfolio:** [atishs-portfolio.netlify.app](https://atishs-portfolio.netlify.app)
+- 🌐 **Portfolio:** [atishs-portfolio.netlify.app](https://atish-jadhav.netlify.app/)
 
 ---
 
